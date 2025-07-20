@@ -50,12 +50,7 @@ scoreboard players set $MotionPower reizo_KnokBack_lib.Temp 125
     execute at @s[type=player] run \
     function reizo_knokback_lib:sys/player
 #> 処理が終了したので値をすべてリセットする。
-    # data remove storage reizo_knokback_lib:_ Pos
-    # scoreboard players reset $KnokBackX reizo_KnokBack_lib.Temp
-    # scoreboard players reset $KnokBackY reizo_KnokBack_lib.Temp
-    # scoreboard players reset $KnokBackZ reizo_KnokBack_lib.Temp
-    # Power系統は1tickだけ遅らせてからリセットする。
-    schedule function reizo_knokback_lib:reset 1t
+function reizo_knokback_lib:reset/_
 
 # Debug用
 execute if data storage reizo_knokback_lib:_ \
