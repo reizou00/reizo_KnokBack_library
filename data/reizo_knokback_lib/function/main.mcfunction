@@ -8,7 +8,3 @@ Setting:\
     DebugMode:true\
     }\
 } run function reizo_knokback_lib:debug/main
-
-
-
-# TODO:Init処理を作りやがれ。
