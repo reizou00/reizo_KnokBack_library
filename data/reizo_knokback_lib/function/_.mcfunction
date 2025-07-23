@@ -52,7 +52,7 @@ scoreboard players set $MotionPower reizo_KnokBack_lib.Temp 125
 #> 処理が終了したので値をすべてリセットする。
 function reizo_knokback_lib:reset/_
 
-# Debug用
+# Debug用、終わった後に値だけを見せる。
 execute if data storage reizo_knokback_lib:_ \
 {\
 Setting:\
