@@ -24,7 +24,7 @@ scoreboard players set $MotionPower reizo_KnokBack_lib.Temp 125
     # AttackerのPosを取り、ぶっ飛ばす方向をとるために少し離れた位置に召喚。
     execute \
     positioned 0.0 0.0 0.0 \
-    rotated as @n[tag=reizo_KnokBack_lib.Attacker,tag=!reizo_KnokBack_lib.Hit] run \
+    rotated as @n[tag=reizo_KnokBack_lib.Attacker] run \
     summon area_effect_cloud ^ ^ ^0.4 \
     {\
     Tags:\
