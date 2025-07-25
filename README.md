@@ -21,3 +21,5 @@ reizo_KnockBack_lib.AttackerというTagを攻撃者につけないと動かな�
 This project is released under the CC0 1.0 Universal license.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+「要するにこれは著作権なしだよ～」ってこと。
