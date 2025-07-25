@@ -15,3 +15,9 @@ reizo_KnockBack_lib.AttackerというTagを攻撃者につけないと動かな�
 ```mcfunction
 /execute as <対象> at @s run function #reizo_knokback_lib:_
 ```
+
+## License
+
+This project is released under the CC0 1.0 Universal license.
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
