@@ -23,3 +23,10 @@ This project is released under the CC0 1.0 Universal license.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 要するにこれは「著作権なしだよ～」ってこと。
+
+# ※当リポジトリは、新しいライブラリに機能を移行&進化いたしました。
+
+## 新リポジトリ
+<a href="https://github.com/reizou00/reizo_Motion_library">
+    <img width="480" src="https://opengraph.githubassets.com/ba98f0ec7b2047038877e7f187aa5c8efbf234ed6b9b7d19f91d8b81562e6a29/reizou00/reizo_Motion_library">
+</a>
